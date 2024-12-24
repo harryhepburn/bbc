@@ -215,6 +215,13 @@ def main():
     - Ramalan hasil berdasarkan tandan yang ditemui pada peringkat 3-5 bulan selepas pendebungaan
     """)
 
+   st.sidebar.markdown("""
+   #### Dibangunkan Oleh
+   - Rafizan Samian, 
+   - Jabatan Strategi dan Transformasi
+   - FELDA
+   """)
+
 if __name__ == "__main__":
     main()
 
